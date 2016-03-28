@@ -1,0 +1,8 @@
+C:\luso\Dropbox\mio\Programas\visual studio\C#\Buscaminas\Buscaminas\bin\Debug\Buscaminas.exe
+C:\luso\Dropbox\mio\Programas\visual studio\C#\Buscaminas\Buscaminas\bin\Debug\Buscaminas.pdb
+C:\luso\Dropbox\mio\Programas\visual studio\C#\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.Form1.resources
+C:\luso\Dropbox\mio\Programas\visual studio\C#\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.Properties.Resources.resources
+C:\luso\Dropbox\mio\Programas\visual studio\C#\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.csproj.GenerateResource.Cache
+C:\luso\Dropbox\mio\Programas\visual studio\C#\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.exe
+C:\luso\Dropbox\mio\Programas\visual studio\C#\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.pdb
+C:\luso\Dropbox\mio\Programas\visual studio\C#\Buscaminas\Buscaminas\obj\x86\Debug\Buscaminas.csprojResolveAssemblyReference.cache
